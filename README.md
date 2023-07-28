@@ -2,7 +2,7 @@
 
 This project was done as a group project in class, using Unity, VSCode, and Blender
 
-The code for this project is in George > Assets > Resources > George > George.cs
+The code for this project is in Assets > Resources > George > George.cs
 
 Our objective was to create a robot capable of participating in a tournament. 
 It was structured as a capture the flag tournament, with the objective being to capture more balls than your opponent. 
