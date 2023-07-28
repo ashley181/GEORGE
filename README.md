@@ -6,8 +6,6 @@ Our objective was to create a robot capable of participating in a tournament.
 It was structured as a capture the flag tournament, with the objective being to capture more balls than your opponent. 
 However the robot had to be able to ‘think’ and move on its own without manual control. 
 
-Used Unity and Blender for this project
-
 We first developed a strategy for it, which was to retrieve balls that were the farthest from its home base, and bring it back to its home base. 
 Once it reached its home base, it would go out again and retrieve more balls. O
 nce all the balls are retrieved it would try to steal the balls from its opponents base. 
